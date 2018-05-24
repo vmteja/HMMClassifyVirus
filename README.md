@@ -1,1 +1,1 @@
-# HMMClassifyVirus
+Thus, in this project HMM model is built to do binary classification that identifies whether a given strand of DNA belongs to the Banana Strain Virus family or to the Aceto Bacteria family based on the ACTG frequencies and the Intron Exon frequency taken as parameters. The log score is used as an evaluation matrix.
